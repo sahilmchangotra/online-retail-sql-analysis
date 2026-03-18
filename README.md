@@ -57,7 +57,7 @@ real stakeholder questions from Amazon Netherlands and Amazon India.
 ---
 
 ### 📊 Tableau Dashboard
-🔗 *Coming soon — link will be added after dashboard publication*
+🔗 *🔗 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/sahil.changotra/viz/shared/SXCXW4NNP)*
 
 ---
 
